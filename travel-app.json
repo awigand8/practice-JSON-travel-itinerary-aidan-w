@@ -1,0 +1,42 @@
+{
+    "tripName": "Chicago Trip",
+    "traveler": {
+        "name": "Bill Gregory",
+        "contact": {
+            "email": "bill123@email.com",
+            "phone": "(314)-123-3456"
+        }
+    },
+    "destinations": [
+     {
+        "location": "Millenium Park",
+        "arrivalDate": "2025-11-22",
+        "departureDate": "2025-11-25",
+        "activities": [
+            {
+            "title": "The Bean",
+            "time": "11:00AM"
+          },
+          {
+            "title": "Navy Pier",
+            "time": "4:00PM"
+          }
+        ]
+      },
+      {
+        "location": "Downtown Chicago",
+        "arrivalDate": "2025-11-25",
+        "departureDate": "2025-11-27",
+        "activities": [
+            {
+            "title": "Willis Tower Skydeck",
+            "time": "12:00PM"
+          },
+          {
+            "title": "French Market",
+            "time": "2:00PM"
+        }
+      ]
+    }
+  ]
+}
