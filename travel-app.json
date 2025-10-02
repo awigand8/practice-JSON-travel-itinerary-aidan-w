@@ -12,6 +12,12 @@
         "location": "Millenium Park",
         "arrivalDate": "2025-11-22",
         "departureDate": "2025-11-25",
+        "transportation": [
+          {
+            "mode": "uber",
+            "cost": 20.00
+          }
+        ],
         "activities": [
             {
             "title": "The Bean",
@@ -27,6 +33,12 @@
         "location": "Downtown Chicago",
         "arrivalDate": "2025-11-25",
         "departureDate": "2025-11-27",
+        "transportation": [
+          {
+            "mode": "train",
+            "cost": 30.00
+          }
+        ],
         "activities": [
             {
             "title": "Willis Tower Skydeck",
@@ -37,6 +49,27 @@
             "time": "2:00PM"
         }
       ]
-    }
+    },
+        {
+        "location": "Milwaukee Ave",
+        "arrivalDate": "2025-11-28",
+        "departureDate": "2025-11-29",
+        "transportation": [
+          {
+            "mode": "walk",
+            "cost": 0.00
+          }
+        ],
+        "activities": [
+            {
+            "title": "Shop",
+            "time": "1:00PM"
+          },
+          {
+            "title": "Eat",
+            "time": "3:00PM"
+          }
+        ]
+      }
   ]
 }
